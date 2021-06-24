@@ -63,3 +63,14 @@ Name | License | Apk | Demo
 [SearchListView](https://github.com/vivian8725118/SearchListView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk]() | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comvivian8725118SearchListView.gif" width="46%"> 
 [ScollZoomListView](https://github.com/nahzur-h/ScollZoomListView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk]() | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comnahzur-hScollZoomListView.gif" width="46%"> 
 
+SwitchButton
+======================
+----------------------------------------
+Name | License | Apk | Demo
+:-: | :-: | :-: | :-:
+[SwitchButton](https://github.com/zcweng/SwitchButton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk](https://github.com/i996/runapks/raw/master/apk/httpsgithub.comzcwengSwitchButton.apk) | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comzcwengSwitchButton.gif.gif" width="46%"> 
+[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk]() | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comzagumAndroid-SwitchIcon.gif" width="46%"> 
+[material-animated-switch](https://github.com/glomadrian/material-animated-switch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk]() | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comglomadrianmaterial-animated-switch.gif" width="46%"> 
+[IconSwitch](https://github.com/polyak01/IconSwitch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk]() | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.compolyak01IconSwitch.gif" width="46%"> 
+[SHSwitchView](https://github.com/7heaven/SHSwitchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk]() | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.com7heavenSHSwitchView.gif" width="46%"> 
+
