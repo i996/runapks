@@ -68,7 +68,7 @@ SwitchButton
 ----------------------------------------
 Name | License | Apk | Demo
 :-: | :-: | :-: | :-:
-[SwitchButton](https://github.com/zcweng/SwitchButton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk](https://github.com/i996/runapks/raw/master/apk/httpsgithub.comzcwengSwitchButton.apk) | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comzcwengSwitchButton.gif.gif" width="46%"> 
+[SwitchButton](https://github.com/zcweng/SwitchButton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk](https://github.com/i996/runapks/raw/master/apk/httpsgithub.comzcwengSwitchButton.apk) | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comzcwengSwitchButton.gif" width="46%"> 
 [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk]() | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comzagumAndroid-SwitchIcon.gif" width="46%"> 
 [material-animated-switch](https://github.com/glomadrian/material-animated-switch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk]() | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comglomadrianmaterial-animated-switch.gif" width="46%"> 
 [IconSwitch](https://github.com/polyak01/IconSwitch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk]() | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.compolyak01IconSwitch.gif" width="46%"> 
