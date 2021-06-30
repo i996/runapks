@@ -68,8 +68,6 @@ Name | License | Apk | Demo
 
 SwitchButton
 ======================
-<details>
-<summary><h1><font color=white>SwitchButton</font></h1></summary>
 ----------------------------------------
 Name | License | Apk | Demo
 :-: | :-: | :-: | :-:
@@ -78,7 +76,6 @@ Name | License | Apk | Demo
 [material-animated-switch](https://github.com/glomadrian/material-animated-switch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk](https://github.com/i996/runapks/raw/master/apk/httpsgithub.comglomadrianmaterial-animated-switch.apk) | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comglomadrianmaterial-animated-switch.gif" width="46%"> 
 [IconSwitch](https://github.com/polyak01/IconSwitch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk](https://github.com/i996/runapks/raw/master/apk/httpsgithub.compolyak01IconSwitch.apk) | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.compolyak01IconSwitch.gif" width="46%"> 
 [SHSwitchView](https://github.com/7heaven/SHSwitchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk](https://github.com/i996/runapks/raw/master/apk/httpsgithub.com7heavenSHSwitchView.apk) | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.com7heavenSHSwitchView.gif" width="46%">
-</details>
 
 按钮
 ======================
