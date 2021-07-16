@@ -313,7 +313,7 @@ Name | License | Apk | Demo
 [BarChart-master](https://github.com/Cuieney/BarChart-master) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk](https://github.com/i996/runapks/raw/master/apk/aaaaaa.apk) | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comCuieneyBarChart-master.gif" width="46%">
 [PianoChartView](https://github.com/Andy671/PianoChartView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [Download Apk](https://github.com/i996/runapks/raw/master/apk/aaaaaa.apk) | <img src="https://raw.githubusercontent.com/i996/runapks/master/art/httpsgithub.comAndy671PianoChartView.gif" width="46%">
 
-图表(Chart)
+菜单(Menu)
 ======================
 ----------------------------------------
 Name | License | Apk | Demo
