@@ -14,7 +14,7 @@ Featured list of excellent Android UI/UX and custom View libraries.
 |* [抽屉菜单](#抽屉菜单) | * [ListView](#ListView) | * [SwitchButton](#SwitchButton) | * [按钮](#按钮) | * [点赞按钮](#点赞按钮)|
 | :--: | :--: | :--: | :--: | :--: |
 |* [进度条](#进度条) | * [TabLayout](#TabLayout) | * [图标](#图标) | * [下拉刷新](#下拉刷新) | *[ViewPager](#ViewPager)|
-|* [图表(Chart)](#图表(Chart)) | * [菜单(Menu)](#菜单(Menu)) | * [浮动菜单](#浮动菜单) | * [对话框](#对话框) | * [空白页](#空白页)|
+|* [图表(Chart)](#图表(Chart)) | * [菜单(Menu)](#菜单(Menu)) | * [对话框](#对话框) | * [SeekBar](#SeekBar) | * [空白页](#空白页)|
 |* [滑动删除](#滑动删除) | * [手势操作](#手势操作) | * [Card](#Card) | * [Color](#Color) | * [Drawable](#Drawable)|
 |* [Spinner](#Spinner) | * [布局(Layout)](#布局(Layout)) | * [模糊效果](#模糊效果) | * [TabBar](#TabBar) | * [AppBar](#AppBar)|
 |* [选择器(Picker)](#选择器(Picker)) | * [跑马灯](#跑马灯) | * [日历时间](#日历时间) | * [主题样式](#主题样式) | * [ImageView](#ImageView)|
@@ -28,8 +28,8 @@ Featured list of excellent Android UI/UX and custom View libraries.
 |* [滚动视差(Parallex)](#滚动视差(Parallex)) | * [SideBar](#SideBar) | * [关于页面](#关于页面) | * [详情页](#详情页) | * [FAB](#FAB)|
 |* [Indicator](#Indicator) | * [分享组件](#分享组件) | * [升级更新](#升级更新) | * [Toolbar](#Toolbar) | * [Sort&amp;Drag](#Sort&amp;Drag)|
 |* [Emoji](#Emoji) | * [Label](#Label) | * [WheelView](#WheelView) | * [PinCode](#PinCode) | * [CoordinatorLayout](#CoordinatorLayout)|
-|* [页面切换](#页面切换) | * [悬浮窗](#悬浮窗) | * [地图](#地图) | * [编辑器](#编辑器) | * [SeekBar](#SeekBar)|
-|* [DownloadView](#DownloadView) | * [其他](#其他)|
+|* [页面切换](#页面切换) | * [悬浮窗](#悬浮窗) | * [地图](#地图) | * [编辑器](#编辑器) | * [DownloadView](#DownloadView)|
+| * [其他](#其他)|
 
 抽屉菜单
 ======================
